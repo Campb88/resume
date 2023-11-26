@@ -8,7 +8,7 @@ class Header extends Component {
     const project = this.props.data.project;
     const github = this.props.data.github;
     const name = this.props.data.name;
-    const description = this.props.data.description;
+/*     const description = this.props.data.description; */
 
     return (
       <header id="home">
@@ -56,20 +56,22 @@ class Header extends Component {
         </nav>
 
         <div className="row banner">
-          <div className="banner-text">
-            <h1 className="responsive-headline">{name}</h1>
-            <h3>{description}.</h3>
-            <hr />
-            <ul className="social">
-              <a href={project} className="button btn project-btn">
-                <li >Project</li>
-              </a>
-              <a href={github} className="button btn github-btn">
-              <li >Github</li>
-              </a>
-            </ul>
-          </div>
+        <div className="banner-text">
+          
+          <h1 className="responsive-headline">{name}</h1>
+          <h2>Closing the Accessibility Gap</h2>
+          <h2>Transforming Education</h2>
+          <h2>Advocating for Inclusivity</h2>
+          <ul className="social">
+            <a href={project} className="button btn project-btn">
+              <li>Projects</li>
+            </a>
+            <a href={github} className="button btn github-btn">
+              <li>Github</li>
+            </a>
+          </ul>
         </div>
+      </div>
 
         <p className="scrolldown">
           <a className="smoothscroll" href="#about">

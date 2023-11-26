@@ -62,14 +62,14 @@ body {
  }
  
  header .banner-text h1 {
-    font: 90px/1.1em 'opensans-bold', sans-serif;
+    font: 90px/1.1em 'opensans-extrabold', sans-serif;
     color: #fff;
     letter-spacing: -2px;
     margin: 0 auto 18px auto;
  }
  
- header .banner-text h3 {
-    font: 18px/1.9em 'librebaskerville-regular', serif;
+ header .banner-text h2 {
+    font: 24px/1.1em 'opensans-light', sans-serif;
     color: #ddd;
     margin: 0 auto;
     width: 70%;
@@ -1238,8 +1238,7 @@ body {
  }
  
  .social .btn {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 10px 20px;
  }
  
  .social .btn i {
