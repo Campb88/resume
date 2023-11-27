@@ -32,7 +32,7 @@ body {
 
 header {
    position: relative;
-   height: 900px;
+   height: 100 vh;
    min-height: 500px;
    width: 100%;
 
@@ -62,8 +62,8 @@ header .banner-text {
 }
 
 header .banner-text h1 {
-   /* font: 90px/1.1em 'opensans-bold', sans-serif; */
-   font-size: 90px;
+   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font-weight: bolder;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -108,8 +108,8 @@ header .social li a {
    text-decoration: none;
 }
 
-header .social li a:hover {
-   color: #0762f9;
+header .social a li:hover {
+   color: #fff;
 }
 
 /* scrolldown link */
@@ -219,23 +219,23 @@ ul#nav li.current a {
 
 #about {
    background: #000524;
-   padding: 96px 30px 66px 30px;
    overflow: hidden;
-   height: 900px;
-   vertical-align: middle;
-   margin: 0 auto;
-   padding-bottom: 30px;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
 
 #about .container {
-   width: 70%;
+   width: 80%;
    margin: 0 auto;
+   align-content: center;
    display: grid;
-   grid-template-columns: repeat(4, 1fr);
+   grid-template-columns: repeat(7, 1fr);
    /* Four columns */
    grid-template-rows: auto auto;
    /* Two rows */
-   grid-gap: 10px;
+   grid-gap: 30px;
    /* Adjust the gap between grid items */
 }
 
@@ -272,19 +272,25 @@ ul#nav li.current a {
 }
 
 #about .about-details {
-   grid-area: 1 / 2 / 2 / 5;
-   /* Start in the first row, second column, end in the second row, fifth column */
+   grid-area: 1 / 2 / 2 / 8;
+   /* Start in the first row, second column, end in the second row, fourth column */
 }
 
 #about .contact-details {
-   grid-area: 2 / 2 / 3 / 4;
-   /* Start in the second row, second column, end in the third row, fourth column */
+   grid-area: 2 / 1 / 2 / 1;
+   /* Start in the second row, second column, end in the second row, first column */
 }
 
 #about .download {
    padding-top: 16px;
-   grid-area: 2 / 4 / 4 / 5;
-   /* Start in the second row, third column, end in the third row, fifth column */
+}
+
+#about .prof-mission {
+   grid-area: 2 / 2 / 2 / 5;
+}
+
+#about .pers-mission {
+   grid-area: 2 / 5 / 2 / 8;
 }
 
 #about .download .button {
