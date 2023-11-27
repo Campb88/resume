@@ -3,44 +3,26 @@
     "name":"Kate Campbell",
     "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"With a strong foundation in early childhood education and a current focus on computer science studies at Western Washington University, I am dedicated to addressing the diverse needs of young learners. My research centers on accessibility in computer science education, emphasizing the importance of inclusive teaching. This work fuels my passion for creating equitable learning environments, utilizing technology to bridge gaps in educational access.",
+    "bio2": "As a dedicated researcher and educator, I actively bridge the realms of computer science and early childhood education. My commitment revolves around establishing inclusive learning environments, blending expertise in both fields to pave the way for a more accessible educational experience. I am driven by a personal calling to advocate for educational reforms that ensure equal opportunities, contributing to the evolution of education for greater inclusivity and accessibility.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "Kcampbell31@gmail.com",
+    "github":"https://github.com/Campb88",
+    "project":"https://www.linkedin.com/in/kate-campbell-b86021296",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Bellingham",
+      "state":"WA",
+      "zip": "98229"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/kate-campbell-b86021296",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Campb88",
         "className":"fa fa-github"
       }
     ]
