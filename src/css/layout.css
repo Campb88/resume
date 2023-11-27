@@ -112,6 +112,10 @@ header .social a li:hover {
    color: #fff;
 }
 
+header .social a li::after {
+   color: orange;
+}
+
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
@@ -187,15 +191,12 @@ ul#nav li {
 
 /* Links */
 ul#nav li a {
-
-   /* 8px padding top + 8px padding bottom + 32px line-height = 48px */
-
    display: inline-block;
    padding: 8px 13px;
    line-height: 32px;
    text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #1abc9c;
 
    -webkit-transition: color .2s ease-in-out;
    -moz-transition: color .2s ease-in-out;
@@ -252,7 +253,7 @@ ul#nav li.current a {
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #1abc9c;
    margin-bottom: 12px;
 }
 
@@ -299,8 +300,8 @@ ul#nav li.current a {
 }
 
 #about .download .button:hover {
-   background: #fff;
-   color: #2B2B2B;
+   background: #1abc9c;
+   color: #fff;
 }
 
 #about .download .button i {
@@ -314,10 +315,15 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background:#ffffffe3;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+}
+
+#resume .resume-container {
+   width: 80%;
+   margin: 0 auto;
 }
 
 #resume a,
@@ -337,12 +343,13 @@ ul#nav li.current a {
 }
 
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid #1abc9c;
    padding-bottom: 6px;
 }
 
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   margin-bottom: 0px;
 }
 
 #resume .header-col {
@@ -357,12 +364,12 @@ ul#nav li.current a {
 .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid #000;
 }
 
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: #40464d;
    margin-bottom: 18px;
    margin-top: 9px;
 }

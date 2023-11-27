@@ -1,168 +1,202 @@
 {
   "main": {
-    "name":"Kate Campbell",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"With a strong foundation in early childhood education and a current focus on computer science studies at Western Washington University, I am dedicated to addressing the diverse needs of young learners. My research centers on accessibility in computer science education, emphasizing the importance of inclusive teaching. This work fuels my passion for creating equitable learning environments, utilizing technology to bridge gaps in educational access.",
+    "name": "Kate Campbell",
+    "description": "I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image": "profilepic.jpg",
+    "bio": "With a strong foundation in early childhood education and a current focus on computer science studies at Western Washington University, I am dedicated to addressing the diverse needs of young learners. My research centers on accessibility in computer science education, emphasizing the importance of inclusive teaching. This work fuels my passion for creating equitable learning environments, utilizing technology to bridge gaps in educational access.",
     "bio2": "As a dedicated researcher and educator, I actively bridge the realms of computer science and early childhood education. My commitment revolves around establishing inclusive learning environments, blending expertise in both fields to pave the way for a more accessible educational experience. I am driven by a personal calling to advocate for educational reforms that ensure equal opportunities, contributing to the evolution of education for greater inclusivity and accessibility.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Kcampbell31@gmail.com",
-    "github":"https://github.com/Campb88",
-    "project":"https://www.linkedin.com/in/kate-campbell-b86021296",
-    "address":{
-      "city":"Bellingham",
-      "state":"WA",
+    "github": "https://github.com/Campb88",
+    "project": "https://www.linkedin.com/in/kate-campbell-b86021296",
+    "address": {
+      "city": "Bellingham",
+      "state": "WA",
       "zip": "98229"
     },
     "professional": "I am dedicated to leveraging my skills and knowledge in computer science to advance accessibility and inclusivity. With a deep passion for technology and a firm belief that it has the power to transform lives, my professional mission is to drive innovation that breaks down barriers and ensures that everyone, regardless of their abilities, can access and benefit from the digital world. I am committed to collaborating with like-minded individuals and organizations to create solutions that open doors to education, opportunities, and a brighter future for all.",
-    "personal": "My personal mission is to be a catalyst for positive change in the realm of computer science accessibility. I aspire to create a more inclusive digital landscape where nobody is left behind, and opportunities for growth and learning are within reach of every individual. My dedication to this cause extends beyond my professional endeavors, and I actively seek to raise awareness, educate, and advocate for a world where technology is a force for good, enhancing the lives of those who need it most.", 
-    "social":[
+    "personal": "My personal mission is to be a catalyst for positive change in the realm of computer science accessibility. I aspire to create a more inclusive digital landscape where nobody is left behind, and opportunities for growth and learning are within reach of every individual. My dedication to this cause extends beyond my professional endeavors, and I actively seek to raise awareness, educate, and advocate for a world where technology is a force for good, enhancing the lives of those who need it most.",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/kate-campbell-b86021296",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kate-campbell-b86021296",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/Campb88",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/Campb88",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Western Washington University",
+        "degree": "Bachelor of Science (B.S.) - Computer Science",
+        "graduated": "Sep 2021 - Jun 2025 (Expected)",
+        "description": "During my time at WWU, I have discovered the exciting world of computer science and its endless possibilities. With a background in early childhood education, I was drawn to the intersection of computer science education and accessibility for all students. WWU not only introduced me to this dynamic field but also inspired me to explore how computer science can be made accessible to learners of all ages and backgrounds."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Whatcom Community College",
+        "degree": "Associate of Arts (A.A.) - Early Childhood Education",
+        "graduated": "Jul 2021",
+        "description": "I completed my associate's degree in the Early Childhood Education program at Whatcom Community College, where I also earned multiple early childhood education certificates from Washington State. This educational background has instilled in me a commitment to simplifying complex concepts and ensuring inclusivity in educational practices."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Index in Bounds Research Lab",
+        "title": "Lab Manager",
+        "years": "Sep 2023 - Present",
+        "location": "Western Washington University, Bellingham, WA",
+        "description": [
+          "As a Lab Manager at Western Washington University, I oversee laboratory operations, including equipment maintenance, research project coordination, and budget management, with a focus on computer science education and accessibility. My role includes maintaining lab protocols, supporting researchers, and ensuring the availability of resources for ongoing research activities."
+        ]
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Index in Bounds Research Lab",
+        "title": "Research Assistant",
+        "years": "Jan 2023 - Present",
+        "location": "Western Washington University, Bellingham, WA",
+        "description": [
+          "In my role as a Research Assistant I actively contribute to ongoing projects related to computer science education and accessibility. My responsibilities include collaborating on research methodologies, collecting and analyzing data, and engaging in meaningful discussions to advance our research initiatives."
+        ]
+      },
+      {
+        "company": "Western Washington University",
+        "title": "Residential Office Assistant",
+        "years": "Jul 2021 - Nov 2023",
+        "location": "Bellingham, WA",
+        "description": [
+          "The Residential Office Assistant (ROA) is a pivotal role offering vital administrative support to the Residence Life. My responsibilities encompass coordinating crucial community activities, including tracking for the residential curriculum, managing mail, procurement, and overseeing administrative processes. This role necessitates continuous communication with the supervisor, central departmental staff, paraprofessional staff, and students within my assigned community."
+        ]
+      },
+      {
+        "company": "TRIO Upward Bound",
+        "title": "Summer Mentor",
+        "years": "Summer 2021 & 2022",
+        "location": "Bellingham, WA",
+        "description": [
+          "Provided mentorship and guidance to Upward Bound program students, assisting them in the college enrollment process while leading various educational activities and discussions. In the second year, taught a science-based class to engage students and promote their educational and career aspirations during the summer program."
+        ]
+      },
+      {
+        "company": "Kids World Frontiers",
+        "title": "Center Director",
+        "years": "Nov 2018 - Mar 2020",
+        "location": "Bellingham, WA",
+        "description": [
+          "I played a pivotal role in establishing and operating a licensed child care center, which encompassed not only overseeing daily operations but also the hiring process, conducting interviews, and managing staff. In addition, I efficiently managed time-keeping, payroll, accounts payable, billing processes, and adeptly resolved conflicts among staff, parents, and children to ensure a conducive learning environment."
+        ]
+      },
+      {
+        "company": "Kids World",
+        "title": "Lead Preschool Teacher",
+        "years": "Jan 2000 - Apr 2017",
+        "location": "Bellingham, WA",
+        "description": [
+          "In this role, I designed and executed age-appropriate curricula and engaging lesson plans, fostering children's development. Additionally, I prioritized open communication with families, cultivating a collaborative partnership, and showcased effective classroom management, establishing a secure and nurturing learning atmosphere."
+        ]
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"60%"
+        "name": "Python",
+        "level": "70%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name": "ReactJs",
+        "level": "50%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "JAVA",
+        "level": "80%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name": "C",
+        "level": "60%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
       }
     ]
   }

@@ -13,6 +13,7 @@ class About extends Component {
         const zip = this.props.data.address.zip;
         const email = this.props.data.email;
         const professional = this.props.data.professional;
+        const personal = this.props.data.personal;
         /* const resumeDownload = "../docs/Resume.pdf";
  */
         return (
@@ -58,9 +59,9 @@ class About extends Component {
                         </p>
                     </div>
                     <div className="pers-mission">
-                        <h2>PROFESSIONAL MISSION:</h2>
+                        <h2>PERSONAL MISSION:</h2>
                         <p className="personal">
-                            <span>{professional}</span>
+                            <span>{personal}</span>
                         </p>
 
                     </div>
