@@ -16,6 +16,7 @@
     },
     "professional": "I am dedicated to leveraging my skills and knowledge in computer science to advance accessibility and inclusivity. With a deep passion for technology and a firm belief that it has the power to transform lives, my professional mission is to drive innovation that breaks down barriers and ensures that everyone, regardless of their abilities, can access and benefit from the digital world. I am committed to collaborating with like-minded individuals and organizations to create solutions that open doors to education, opportunities, and a brighter future for all.",
     "personal": "My personal mission is to be a catalyst for positive change in the realm of computer science accessibility. I aspire to create a more inclusive digital landscape where nobody is left behind, and opportunities for growth and learning are within reach of every individual. My dedication to this cause extends beyond my professional endeavors, and I actively seek to raise awareness, educate, and advocate for a world where technology is a force for good, enhancing the lives of those who need it most.",
+    "quote":"\"The power of technology should be harnessed to create a world where accessibility knows no bounds.\" - Stephen Hawking",
     "social": [
       {
         "name": "linkedin",
@@ -127,75 +128,75 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "01.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Mission Statement",
+        "category": "Personal & Professional Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vR8-eY7Pzm4E8eO1dzJuyZy5lxtLwvU38TKhrX87tQ1uL0bRFCDuOt_wfCWtORd8MPxzClK_fVCOvZ5/pub"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Student Contract and Three Goals for Accountability",
+        "category": "Personal & Professional Documents",
+        "image": "mission-statement.jpg",
+        "url": "--"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Cover Letter",
+        "category": "Professional Job Search Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vRXGAGRzBZEgexnUrNQm6NXbMgDL4MN1co2LMfHporvCmxNwuvenwsiChEHVIhtZREOUKD1Za6K-nqs/pub"
+      },
+      {
+        "title": "Resume",
+        "category": "Professional Job Search Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vR6bHESMXnc59anfpfj5Mt_YI-YcGhDE5YKiXsj3Y8WHZRPZO-aNkooXTOUtaiR45Pe7Ung5ze8V2CD/pub"
+      },
+      {
+        "title": "Thank you Note",
+        "category": "Professional Job Search Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vTHmLQT9uqENi_xfcaj4BX9tfgQZp8sANljbIgMf8ZVhTn5x8bCaB2qFw7j7t5iQ7cw1wrOwYldZtxz/pub"
+      },
+      {
+        "title": "References",
+        "category": "Professional Job Search Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vSm5h2XnnKyq0EGtF5abkAuJxbHnOHF7A-obfgpCcpAzkaHlTM2uWKClGv3SUYq3h8r-r5RvSYd6UaC/pub"
+      },
+      {
+        "title": "Interview Questions",
+        "category": "Career Research Related Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vTPgkRNFjC9Wc-tVMCr8ICkwTI_ORiBv9j8uyZ4DjvPx7NkUzazkRoPS9p6oq7h-Yv5EKXXdWsZvrls/pub"
+      },
+      {
+        "title": "Career Research Interview Self-Evaluation Form",
+        "category": "Career Research Related Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vTeOPcR9eh6qRvG5ahpPW6012339498PQl-Ku-jfrVd1Wy6NEVoxrgeN9WyTLgLWVQA3M0aMdxMYZKA/pub"
+      },
+      {
+        "title": "Career Research Informational Interview & Report",
+        "category": "Career Research Related Documents",
+        "image": "mission-statement.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQuN9xLwuVlH6strMEGMZ-d0bM5Fk9gWqwq1uNOUxi6ydKUffBQEgkDCCYQz_Epnpnefhv56IcAEdNj/pub"
       },
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
-        "image": "04.jpg",
+        "image": "mission-statement.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
         "title": "Smirkspace",
         "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
+        "image": "mission-statement.jpg",
         "url": "http://www.smirkspace.com"
       },
       {
         "title": "Canadian Wanderlust",
         "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "01.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
-      },
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
+        "image": "mission-statement.jpg",
         "url": "https://www.canadianwanderlust.com"
       }
     ]

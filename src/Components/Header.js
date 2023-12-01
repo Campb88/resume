@@ -64,10 +64,10 @@ class Header extends Component {
           <h3>Advocating for Inclusivity</h3>
           <ul className="social">
             <a href={project} className="button btn project-btn">
-              <li>Projects</li>
+            <i className="fab fa-linkedin"></i><li>LinkedIn</li>
             </a>
             <a href={github} className="button btn github-btn">
-              <li>Github</li>
+            <i className="fab fa-github"></i><li>Github</li>
             </a>
           </ul>
         </div>

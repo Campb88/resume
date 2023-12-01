@@ -4,8 +4,8 @@ import "./css/layout.css";
 import Header from "./Components/Header.js";
 import About from "./Components/About";
 import Resume from "./Components/Resume";
-/*  import Portfolio from "./Components/Portfolio";
-import Contact from "./Components/Contact";
+import Portfolio from "./Components/Portfolio";
+/*  import Contact from "./Components/Contact";
 import Footer from "./Components/Footer"; */
 import resumeData from "./resumeData.json";
 
@@ -28,8 +28,8 @@ class App extends Component {
          <About data={resumeData.main} />
          
         <Resume data={resumeData.resume} />
-        {/*<Portfolio data={resumeData.portfolio} />
-        <Contact data={resumeData.main} />
+        <Portfolio data={resumeData.portfolio} />
+        {/*<Contact data={resumeData.main} />
         <Footer data={resumeData.main} /> */}
       </div>
     );

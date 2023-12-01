@@ -14,6 +14,7 @@ class About extends Component {
         const email = this.props.data.email;
         const professional = this.props.data.professional;
         const personal = this.props.data.personal;
+        const quote = this.props.data.quote;
         /* const resumeDownload = "../docs/Resume.pdf";
  */
         return (
@@ -64,6 +65,13 @@ class About extends Component {
                             <span>{personal}</span>
                         </p>
 
+                    </div>
+                    <div className="quote">
+                        <p className="quote-text">
+                            <span>
+                                {quote}
+                            </span>
+                        </p>
                     </div>
 
 

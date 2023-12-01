@@ -31,7 +31,7 @@ class Resume extends Component {
       );
     });
 
-    const colorPalette = ["#1abc9c", "#15E0B7", "#2FF4CD", "#4FFCDA", "#75FFE3"];
+    const colorPalette = ["#3aa7a3", "2ca6a4", "5ec2b7", "2ca6a4", "#3aa7a3"];
     
     const skills = this.props.data.skills.map((skills, index) => {
         const backgroundColor = colorPalette[index % colorPalette.length]; // Cycle through colors
