@@ -1,17 +1,34 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.254d3966.css",
-    "main.js": "/resume/static/js/main.5d399e52.js",
+    "main.css": "/resume/static/css/main.8265c9e2.css",
+    "main.js": "/resume/static/js/main.e7f73602.js",
     "static/js/787.7da95b79.chunk.js": "/resume/static/js/787.7da95b79.chunk.js",
-    "static/media/mission-statement.jpg": "/resume/static/media/mission-statement.6a47f88f72d9e9972a87.jpg",
+    "static/media/letter-templates.jpg": "/resume/static/media/letter-templates.2e619eabed4fdccee45e.jpg",
+    "static/media/resume-checklist.jpg": "/resume/static/media/resume-checklist.ae75e185017f0fe375af.jpg",
+    "static/media/interview-questions.jpg": "/resume/static/media/interview-questions.937e272be6fac94eb7f2.jpg",
+    "static/media/hypo-questions.jpg": "/resume/static/media/hypo-questions.650c73474c4d4c632c8e.jpg",
+    "static/media/cover-letter.jpg": "/resume/static/media/cover-letter.6f1fdf32c91a9dc5df32.jpg",
+    "static/media/self-evaluation.jpg": "/resume/static/media/self-evaluation.5e5013c5d3363c6749c8.jpg",
+    "static/media/references.jpg": "/resume/static/media/references.b0fb0162a8a6d4269d7a.jpg",
+    "static/media/active-verbs.png": "/resume/static/media/active-verbs.7ea9c510019c2b5a5bc0.png",
+    "static/media/mission-statement.jpg": "/resume/static/media/mission-statement.924e26e95b059b04ee1a.jpg",
+    "static/media/resume.jpg": "/resume/static/media/resume.0a045eb79400dd87145e.jpg",
     "static/media/profile.jpg": "/resume/static/media/profile.6056dd3b44e2569cc035.jpg",
+    "static/media/thank-you-note.jpg": "/resume/static/media/thank-you-note.e3d0e229a7294f5a018a.jpg",
+    "static/media/interview-request.jpg": "/resume/static/media/interview-request.745889bfe1650fbd827e.jpg",
+    "static/media/smart.jpg": "/resume/static/media/smart.4e6e2d6ae538f41056ad.jpg",
+    "static/media/smart-goals.png": "/resume/static/media/smart-goals.02a9d6ff71760b1f2ae9.png",
+    "static/media/interview-thank-you.jpg": "/resume/static/media/interview-thank-you.b363d894d62d1e5c3594.jpg",
+    "static/media/top-skills.png": "/resume/static/media/top-skills.cac377044cf23f1e36a8.png",
+    "static/media/CRIIR.jpg": "/resume/static/media/CRIIR.96a20fc7a23d4cf9662c.jpg",
+    "static/media/job-posting.jpg": "/resume/static/media/job-posting.5fa9bfc7f8cdf87f16da.jpg",
     "index.html": "/resume/index.html",
-    "main.254d3966.css.map": "/resume/static/css/main.254d3966.css.map",
-    "main.5d399e52.js.map": "/resume/static/js/main.5d399e52.js.map",
+    "main.8265c9e2.css.map": "/resume/static/css/main.8265c9e2.css.map",
+    "main.e7f73602.js.map": "/resume/static/js/main.e7f73602.js.map",
     "787.7da95b79.chunk.js.map": "/resume/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.254d3966.css",
-    "static/js/main.5d399e52.js"
+    "static/css/main.8265c9e2.css",
+    "static/js/main.e7f73602.js"
   ]
 }
