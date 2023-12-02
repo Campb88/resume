@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.8265c9e2.css",
+    "main.css": "/resume/static/css/main.851b680f.css",
     "main.js": "/resume/static/js/main.e7f73602.js",
     "static/js/787.7da95b79.chunk.js": "/resume/static/js/787.7da95b79.chunk.js",
     "static/media/letter-templates.jpg": "/resume/static/media/letter-templates.2e619eabed4fdccee45e.jpg",
@@ -23,12 +23,12 @@
     "static/media/CRIIR.jpg": "/resume/static/media/CRIIR.96a20fc7a23d4cf9662c.jpg",
     "static/media/job-posting.jpg": "/resume/static/media/job-posting.5fa9bfc7f8cdf87f16da.jpg",
     "index.html": "/resume/index.html",
-    "main.8265c9e2.css.map": "/resume/static/css/main.8265c9e2.css.map",
+    "main.851b680f.css.map": "/resume/static/css/main.851b680f.css.map",
     "main.e7f73602.js.map": "/resume/static/js/main.e7f73602.js.map",
     "787.7da95b79.chunk.js.map": "/resume/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8265c9e2.css",
+    "static/css/main.851b680f.css",
     "static/js/main.e7f73602.js"
   ]
 }
