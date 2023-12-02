@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Kate Campbell",
-    "description": "I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image": "profilepic.jpg",
     "bio": "With a strong foundation in early childhood education and a current focus on computer science studies at Western Washington University, I am dedicated to addressing the diverse needs of young learners. My research centers on accessibility in computer science education, emphasizing the importance of inclusive teaching. This work fuels my passion for creating equitable learning environments, utilizing technology to bridge gaps in educational access.",
     "bio2": "As a dedicated researcher and educator, I actively bridge the realms of computer science and early childhood education. My commitment revolves around establishing inclusive learning environments, blending expertise in both fields to pave the way for a more accessible educational experience. I am driven by a personal calling to advocate for educational reforms that ensure equal opportunities, contributing to the evolution of education for greater inclusivity and accessibility.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio3": "In my personal life, I have cultivated a rich existence filled with love, friendship, and a connection to nature. Although I'm originally from Memphis, Tennessee, I moved to Bellingham from Montana 6 years ago. Throughout these years, I have nurtured my love of the outdoors and enriched my appreciation for diverse cultures and experiences. When I'm not busy working on a project or advancing my education, I cherish moments making memories with friends, tending to my thriving collection of plants, and sharing my home with three wonderful companions - a loyal dog and two sassy cats.",
+    "bio4": "My kitchen is a lively space where I experiment with culinary creations, crafting meals that bring people together. During the summertime, I immerse myself in the local events scene, soaking in the energy of the community. In the winter, I find solace in the warmth of indoor projects, creating a cozy space for friends and family to gather, ensuring that every season is filled with unique moments and shared memories. An aficionado of the New York Times crossword, you'll often find me engrossed in the Sunday puzzle or tackling daily Wordle.",
     "email": "Kcampbell31@gmail.com",
     "github": "https://github.com/Campb88",
     "project": "https://www.linkedin.com/in/kate-campbell-b86021296",
@@ -140,62 +140,122 @@
         "url": "--"
       },
       {
+        "title": "S.M.A.R.T. Goals",
+        "category": "Professional Job Search Documents",
+        "image": "smart.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vR2p4QbM9eLsDh975T_p6OOC6mVE-G54-yQggW3O9IRxQooObSi1CdZRjJq1QUFHu4X9PncUzSe77Go/pub"
+      },
+      {
+        "title": "S.M.A.R.T. Goals for Job Seeking",
+        "category": "Professional Job Search Documents",
+        "image": "smart-goals.png",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vRnqMu0OUvBFQ4KC3TXUaTRmwaAH9s78OzBKsgYVnYIR5wT2zgflUWX0gj6nyEeSmfGm6i7SCjvPyZI/pub"
+      },
+      {
+        "title": "Top Skills Employers Look For",
+        "category": "Professional Job Search Documents",
+        "image": "top-skills.png",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQzra01JLKFhJzrNtA9OesMj-Zcf3oJmuBFGCqi152GqKmknerOR_iuttAhwA2Y9Of0gkDPzgBexc1J/pub"
+      },
+      {
+        "title": "Active Verbs for Resumes",
+        "category": "Professional Job Search Documents",
+        "image": "active-verbs.png",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vREecJWxhKmmKjHlmaZjE6qNHpS9l77UH8hW-gG_V2iXFcocWxBTqsjnSJEGjHgRmvbDIz36TZ61UtT/pub"
+      },
+      {
+        "title": "Job Search Cover Letters",
+        "category": "Professional Job Search Documents",
+        "image": "letter-templates.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQhGp_4EHH0Cd0M2K2WbDgtSpc8uN_IZTzSzxjbJ4ywSDv-dBkbB7ztBwhC9JcqvkjD5Ce8gp_65vJN/pub"
+      },
+      {
+        "title": "Resume Checklist",
+        "category": "Professional Job Search Documents",
+        "image": "resume-checklist.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vTwiIFxleIT_3lJoWKTgTBt6CA4IqcfIOklCFzYAw6fI35gijwJpxGrJ17gggpOoG4TdNkOE6DIkzn9/pub"
+      },
+      {
+        "title": "Behavioral/Hypothetical Job Interview Questions",
+        "category": "Professional Job Search Documents",
+        "image": "hypo-questions.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQxGmwxFYt44fRL_chSqoyacabEnf8QaSfy7UMz-VSD8-zoEKP-XwUeMpKa7LnX0OmS786HwnzQsy9l/pub"
+      },
+      {
+        "title": "Active Job Posting and Company Background",
+        "category": "Professional Job Search Documents",
+        "image": "job-posting.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQhGp_4EHH0Cd0M2K2WbDgtSpc8uN_IZTzSzxjbJ4ywSDv-dBkbB7ztBwhC9JcqvkjD5Ce8gp_65vJN/pub"
+      },
+      {
         "title": "Cover Letter",
         "category": "Professional Job Search Documents",
-        "image": "mission-statement.jpg",
+        "image": "cover-letter.jpg",
         "url": "https://docs.google.com/document/d/e/2PACX-1vRXGAGRzBZEgexnUrNQm6NXbMgDL4MN1co2LMfHporvCmxNwuvenwsiChEHVIhtZREOUKD1Za6K-nqs/pub"
       },
       {
         "title": "Resume",
         "category": "Professional Job Search Documents",
-        "image": "mission-statement.jpg",
+        "image": "resume.jpg",
         "url": "https://docs.google.com/document/d/e/2PACX-1vR6bHESMXnc59anfpfj5Mt_YI-YcGhDE5YKiXsj3Y8WHZRPZO-aNkooXTOUtaiR45Pe7Ung5ze8V2CD/pub"
       },
       {
         "title": "Thank you Note",
         "category": "Professional Job Search Documents",
-        "image": "mission-statement.jpg",
+        "image": "thank-you-note.jpg",
         "url": "https://docs.google.com/document/d/e/2PACX-1vTHmLQT9uqENi_xfcaj4BX9tfgQZp8sANljbIgMf8ZVhTn5x8bCaB2qFw7j7t5iQ7cw1wrOwYldZtxz/pub"
       },
       {
         "title": "References",
         "category": "Professional Job Search Documents",
-        "image": "mission-statement.jpg",
+        "image": "references.jpg",
         "url": "https://docs.google.com/document/d/e/2PACX-1vSm5h2XnnKyq0EGtF5abkAuJxbHnOHF7A-obfgpCcpAzkaHlTM2uWKClGv3SUYq3h8r-r5RvSYd6UaC/pub"
       },
       {
-        "title": "Interview Questions",
+        "title": "Career Research Informational Interview Request",
         "category": "Career Research Related Documents",
-        "image": "mission-statement.jpg",
+        "image": "interview-request.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQPcLI0bxJsvZPw1SKT9wy4HVYMWNuKBQeIZeKWUExv4_H82rk-RWoz6fi25rpSE02mYD3K4B18nOWa/pub"
+      },
+      {
+        "title": "Career Research Informational Interview Questions",
+        "category": "Career Research Related Documents",
+        "image": "interview-questions.jpg",
         "url": "https://docs.google.com/document/d/e/2PACX-1vTPgkRNFjC9Wc-tVMCr8ICkwTI_ORiBv9j8uyZ4DjvPx7NkUzazkRoPS9p6oq7h-Yv5EKXXdWsZvrls/pub"
       },
       {
-        "title": "Career Research Interview Self-Evaluation Form",
+        "title": "Career Research Informational Thank You Note",
         "category": "Career Research Related Documents",
-        "image": "mission-statement.jpg",
+        "image": "interview-thank-you.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQxxOECZMOAPdIqeh0VPkQQuiYVfU_5vyETolupEp09L24r1gIJgHSBgslo1_cm15ujddepk33BD8gU/pub"
+      },
+      {
+        "title": "Career Research Informational Interview Self-Evaluation Form",
+        "category": "Career Research Related Documents",
+        "image": "self-evaluation.jpg",
         "url": "https://docs.google.com/document/d/e/2PACX-1vTeOPcR9eh6qRvG5ahpPW6012339498PQl-Ku-jfrVd1Wy6NEVoxrgeN9WyTLgLWVQA3M0aMdxMYZKA/pub"
       },
       {
         "title": "Career Research Informational Interview & Report",
         "category": "Career Research Related Documents",
-        "image": "mission-statement.jpg",
+        "image": "CRIIR.jpg",
         "url": "https://docs.google.com/document/d/e/2PACX-1vQuN9xLwuVlH6strMEGMZ-d0bM5Fk9gWqwq1uNOUxi6ydKUffBQEgkDCCYQz_Epnpnefhv56IcAEdNj/pub"
       },
       {
         "title": "Resume Website",
-        "category": "A React based resume website template",
+        "category": "Career Articles and Handouts",
         "image": "mission-statement.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
         "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "category": "Workshop Project Team Documents",
         "image": "mission-statement.jpg",
         "url": "http://www.smirkspace.com"
       },
       {
         "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "category": "Professional Assessments",
         "image": "mission-statement.jpg",
         "url": "https://www.canadianwanderlust.com"
       }

@@ -4,17 +4,39 @@ class Portfolio extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const projects = this.props.data.projects.map(function (project) {
-      let projectImage = require("../images/" + project.image);
+    // Organize projects into categories
+    const projectsByCategory = this.props.data.projects.reduce(function (acc, project) {
+      const category = project.category;
+      if (!acc[category]) {
+        acc[category] = [];
+      }
+      acc[category].push(project);
+      return acc;
+    }, {});
 
-      return (
-        <div key={project.title} className="portfolio-item">
-          <div className="item-wrap">
-            <img alt={project.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>
-              <h2>{project.title}</h2>
+    // Generate JSX for each category
+    const categorySections = Object.keys(projectsByCategory).map(function (category) {
+      const projects = projectsByCategory[category].map(function (project) {
+        let projectImage = require("../images/" + project.image);
+
+        return (
+          <div key={project.title} className="portfolio-item">
+            <div className="item-wrap">
+              <a href={project.url} target="_blank" rel="noopener noreferrer">
+                <img alt={project.title} src={projectImage} />
+              </a>
+              <div style={{ textAlign: "center" }}>
+                <h3>{project.title}</h3>
+              </div>
             </div>
           </div>
+        );
+      });
+
+      return (
+        <div key={category} className="portfolio-category">
+          <h2>{category}</h2>
+          <div className="portfolio-grid">{projects}</div>
         </div>
       );
     });
@@ -22,12 +44,13 @@ class Portfolio extends Component {
     return (
       <section id="portfolio">
         <div className="container">
-          <h1>Check Out Some of My Works.</h1>
-          <div className="portfolio-grid">{projects}</div>
+          <h1>Employment Portfolio</h1>
+          {categorySections}
         </div>
       </section>
     );
   }
 }
+
 
 export default Portfolio;

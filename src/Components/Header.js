@@ -43,13 +43,7 @@ class Header extends Component {
 
             <li>
               <a className="smoothscroll" href="#portfolio">
-                Works
-              </a>
-            </li>
-
-            <li>
-              <a className="smoothscroll" href="#contact">
-                Contact
+                Portfolio
               </a>
             </li>
           </ul>
@@ -63,7 +57,7 @@ class Header extends Component {
           <h3>Transforming Education</h3>
           <h3>Advocating for Inclusivity</h3>
           <ul className="social">
-            <a href={project} className="button btn project-btn">
+            <a href={project} className="button btn project-btn" >
             <i className="fab fa-linkedin"></i><li>LinkedIn</li>
             </a>
             <a href={github} className="button btn github-btn">
