@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.95142ba4.css",
-    "main.js": "/resume/static/js/main.9da02b8b.js",
+    "main.js": "/resume/static/js/main.0f9e07b6.js",
     "static/js/787.7da95b79.chunk.js": "/resume/static/js/787.7da95b79.chunk.js",
     "static/media/letter-templates.jpg": "/resume/static/media/letter-templates.2e619eabed4fdccee45e.jpg",
     "static/media/getting-to-know.jpg": "/resume/static/media/getting-to-know.a8e323771f9cdc2baad4.jpg",
@@ -40,11 +40,11 @@
     "static/media/belong-workshop.jpg": "/resume/static/media/belong-workshop.d9d85e42e3b9a15ddaa9.jpg",
     "index.html": "/resume/index.html",
     "main.95142ba4.css.map": "/resume/static/css/main.95142ba4.css.map",
-    "main.9da02b8b.js.map": "/resume/static/js/main.9da02b8b.js.map",
+    "main.0f9e07b6.js.map": "/resume/static/js/main.0f9e07b6.js.map",
     "787.7da95b79.chunk.js.map": "/resume/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95142ba4.css",
-    "static/js/main.9da02b8b.js"
+    "static/js/main.0f9e07b6.js"
   ]
 }
