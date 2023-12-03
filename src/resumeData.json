@@ -136,8 +136,8 @@
       {
         "title": "Student Contract and Three Goals for Accountability",
         "category": "Personal & Professional Documents",
-        "image": "mission-statement.jpg",
-        "url": "--"
+        "image": "contract.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vR6TyucGVY97mKXQggbL7ysLaN-vCHOqTvB55FX8sCgclzqgbTnUgRwhDnVFdJMAHXzYPTSs1jqJvE4/pub"
       },
       {
         "title": "S.M.A.R.T. Goals",
@@ -242,19 +242,91 @@
         "url": "https://docs.google.com/document/d/e/2PACX-1vQuN9xLwuVlH6strMEGMZ-d0bM5Fk9gWqwq1uNOUxi6ydKUffBQEgkDCCYQz_Epnpnefhv56IcAEdNj/pub"
       },
       {
-        "title": "Resume Website",
+        "title": "Article 1",
         "category": "Career Articles and Handouts",
         "image": "mission-statement.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Smirkspace",
-        "category": "Workshop Project Team Documents",
+        "title": "Article 2",
+        "category": "Career Articles and Handouts",
         "image": "mission-statement.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Canadian Wanderlust",
+        "title": "Article 3",
+        "category": "Career Articles and Handouts",
+        "image": "mission-statement.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Working Smart",
+        "category": "Career Articles and Handouts",
+        "image": "working-smart.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQtZHz0m274yP20SlOBDUd4YxMRrxYbckkYDWj2-mFp6ZonxNrmBj0Oz3KGEkR6g9PctAVh__WwVpRM/pub"
+      },
+      {
+        "title": "Professional Email Etiquette Consideration",
+        "category": "Career Articles and Handouts",
+        "image": "email.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vSAy_yD5Hal1Sar-SEIYd0k2I17L7PE5cChKOSR0z4Da-pGhcpEQvzLfokaTNHvNcKbfautkRxUVpQ2/pub"
+      },
+      {
+        "title": "Synergy Solutions Norms and Expectations",
+        "category": "Workshop Project Team Documents",
+        "image": "norms.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vR5m6sOyslYlh9IUvz_yJeRUhi9GaHKh_krSHxG-D1wqAy-s1cFszu5m8HLbF_QCkdJYu31YVBkE8DX/pub"
+      },
+      {
+        "title": "Synergy Solutions Memo of Intent",
+        "category": "Workshop Project Team Documents",
+        "image": "workshop-memo.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vRv4uXcYqIlw-Bz1vNMY1gz7gKb5pnDOMKNl-zFpg88B1WkjdFT22dH9J-bLgfrT_Z9aYsSZUuRCoKm/pub"
+      },
+      {
+        "title": "Synergy Solutions Workshop Speaking Outline",
+        "category": "Workshop Project Team Documents",
+        "image": "workshop-outline.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vS9Vw58ueaMExrrDrP-xBJska3_updChez7rQ4jimbvBcTMwFDKWh0Bo5kdN0dMITFRCl3g7eRUOMx9/pub"
+      },
+      {
+        "title": "Synergy Solutions Workshop: Belong",
+        "category": "Workshop Project Team Documents",
+        "image": "belong-workshop.jpg",
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vQk05sGoBX3u_ryfNg80C7q6eStKQLJHzfn4R2s99yGHNWpSrmskR6tjPVDCnLSJwdNfoKPFKlpJHWs/pub?start=false&loop=false&delayms=5000"
+      },
+      {
+        "title": "Synergy Solutions Workshop Group Process Evaluation",
+        "category": "Workshop Project Team Documents",
+        "image": "workshop-group-eval.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vTbMyCEDFha0V9M9Fb3Dnnt8uOUr2YKc2bypObuYrOwatlZC9CIMK68XyEuCL2Mh_jWF_9N0auBgEUF/pub"
+      },
+      {
+        "title": "Getting to Know You",
+        "category": "Professional Assessments",
+        "image": "getting-to-know.jpg",
+        "url": "https://drive.google.com/file/d/1b6qRVm53evYxczx7DJrzHD6g9ELevpm7/view?usp=sharing"
+      },
+      {
+        "title": "Clifton Strengths Results: Student Top 5 Strengths",
+        "category": "Professional Assessments",
+        "image": "clifton.jpg",
+        "url": "https://drive.google.com/file/d/1JH1m_aAyifib44750ERWtmJg31TxGXYS/view?usp=sharing"
+      },
+      {
+        "title": "Clifton Strengths Assessments & Handouts",
+        "category": "Professional Assessments",
+        "image": "mission-statement.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Growth Mindset & Clifton Strengths Journal Entries",
+        "category": "Professional Assessments",
+        "image": "journal.jpg",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vSDYIhAyaiW8qpRNnRyGVivYoO6551wH2IJjAbmTcueN1F23GeIJeom0zn1uCDHR3IbKeOtX3NL0oq0/pub"
+      },
+      {
+        "title": "Self-Assessments and Quizzes",
         "category": "Professional Assessments",
         "image": "mission-statement.jpg",
         "url": "https://www.canadianwanderlust.com"
