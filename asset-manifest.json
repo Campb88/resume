@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.95142ba4.css",
-    "main.js": "/resume/static/js/main.1a620b36.js",
+    "main.js": "/resume/static/js/main.9da02b8b.js",
     "static/js/787.7da95b79.chunk.js": "/resume/static/js/787.7da95b79.chunk.js",
     "static/media/letter-templates.jpg": "/resume/static/media/letter-templates.2e619eabed4fdccee45e.jpg",
     "static/media/getting-to-know.jpg": "/resume/static/media/getting-to-know.a8e323771f9cdc2baad4.jpg",
@@ -13,18 +13,23 @@
     "static/media/workshop-memo.jpg": "/resume/static/media/workshop-memo.7a402162830333520daa.jpg",
     "static/media/email.jpg": "/resume/static/media/email.44fe2d1a59415a9cdeeb.jpg",
     "static/media/workshop-group-eval.jpg": "/resume/static/media/workshop-group-eval.d2ac4d8cd77aa56dbda7.jpg",
+    "static/media/assessments.jpg": "/resume/static/media/assessments.58c40eb3b6e24e55156e.jpg",
     "static/media/cover-letter.jpg": "/resume/static/media/cover-letter.6f1fdf32c91a9dc5df32.jpg",
+    "static/media/strengths.jpg": "/resume/static/media/strengths.22dd6b42714fa0db9165.jpg",
     "static/media/self-evaluation.jpg": "/resume/static/media/self-evaluation.5e5013c5d3363c6749c8.jpg",
     "static/media/references.jpg": "/resume/static/media/references.b0fb0162a8a6d4269d7a.jpg",
     "static/media/contract.jpg": "/resume/static/media/contract.3bf5621d7a44df6ba44c.jpg",
     "static/media/active-verbs.png": "/resume/static/media/active-verbs.7ea9c510019c2b5a5bc0.png",
     "static/media/mission-statement.jpg": "/resume/static/media/mission-statement.924e26e95b059b04ee1a.jpg",
     "static/media/workshop-outline.jpg": "/resume/static/media/workshop-outline.35296f3cd9c4bbafcbb7.jpg",
+    "static/media/advocu.jpg": "/resume/static/media/advocu.e97090521b580a84a997.jpg",
     "static/media/resume.jpg": "/resume/static/media/resume.0a045eb79400dd87145e.jpg",
     "static/media/profile.jpg": "/resume/static/media/profile.6056dd3b44e2569cc035.jpg",
     "static/media/clifton.jpg": "/resume/static/media/clifton.36a8a8db8f83be5c306a.jpg",
     "static/media/thank-you-note.jpg": "/resume/static/media/thank-you-note.e3d0e229a7294f5a018a.jpg",
+    "static/media/medium.jpg": "/resume/static/media/medium.3845482171831416c011.jpg",
     "static/media/interview-request.jpg": "/resume/static/media/interview-request.745889bfe1650fbd827e.jpg",
+    "static/media/github.jpg": "/resume/static/media/github.982ca84ca6419ca1413d.jpg",
     "static/media/smart.jpg": "/resume/static/media/smart.4e6e2d6ae538f41056ad.jpg",
     "static/media/smart-goals.png": "/resume/static/media/smart-goals.02a9d6ff71760b1f2ae9.png",
     "static/media/interview-thank-you.jpg": "/resume/static/media/interview-thank-you.b363d894d62d1e5c3594.jpg",
@@ -35,11 +40,11 @@
     "static/media/belong-workshop.jpg": "/resume/static/media/belong-workshop.d9d85e42e3b9a15ddaa9.jpg",
     "index.html": "/resume/index.html",
     "main.95142ba4.css.map": "/resume/static/css/main.95142ba4.css.map",
-    "main.1a620b36.js.map": "/resume/static/js/main.1a620b36.js.map",
+    "main.9da02b8b.js.map": "/resume/static/js/main.9da02b8b.js.map",
     "787.7da95b79.chunk.js.map": "/resume/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95142ba4.css",
-    "static/js/main.1a620b36.js"
+    "static/js/main.9da02b8b.js"
   ]
 }
